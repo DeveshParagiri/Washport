@@ -78,7 +78,9 @@ h6 {
   transform: translateX(-50%) translateY(-50%);
   z-index: 0;
 }
-
+#fnt{
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
 @media (pointer: coarse) and (hover: none) {
   body {
     background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;
